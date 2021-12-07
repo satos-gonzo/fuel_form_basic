@@ -1,0 +1,27 @@
+.formContainer{
+  width: 15%;
+  margin: 0 auto;
+}
+
+.form{
+  width: 100%;
+  margin: 20px auto 0 auto;
+}
+
+.username, .user_email, .user_password,.user_password_re{
+  width: 100%;
+  height: 30px;
+  display: block;
+  margin: 5px 0 10px 0;
+  box-sizing: border-box;
+}
+.btn{
+  border: none;
+  padding: 10px;
+  border-radius: 3px;
+  box-sizing: border-box;
+  cursor: pointer;
+}
+.errMsg{
+  text-align: center;
+}
